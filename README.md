@@ -23,7 +23,7 @@ Software Developer Intern @ Azguard | May 2019 - Oct 2019
 Feel free to reach out to me for any collaboration or just to chat about tech! 😊 You can reach me @   
 
 Email: vamshikrishnaananthasetty@gmail.com  
-LinkedIn: vamshiananthasetty  
+LinkedIn: https://www.linkedin.com/vamshiananthasetty  
 Portfolio: https://vamshi00111.github.io/Portfolio/  
 GitHub Portfolio: You’re already here! 😊  
 
