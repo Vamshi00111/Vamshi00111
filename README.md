@@ -5,7 +5,7 @@ I'm **Vamshi Krishna**, a Software Developer with 3+ years of experience in full
 ### 🚀 About Me  
 🎓 Master’s in Information Systems (4.0 GPA) from the University of North Texas  
 🏫 Bachelor’s in Technology from IIT Ropar  
-🏢 3+ years as a Software Developer
+🏢 3+ years as a Software Developer  
 🌟 AWS Certified Developer Associate  
 
 ### 💻 Technical Skills  
