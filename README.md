@@ -1,11 +1,11 @@
 ## Hi there 👋  
 
-I'm **Vamshi Krishna**, a Software Developer with 3+ years of experience in full-stack development, specializing in scalable, user-focused solutions.  
+I'm **Vamshi Krishna**, a Software Developer with 3+ years of experience in full-stack development, specializing in building scalable, optimized and user-focused solutions.  
 
 ### 🚀 About Me  
 🎓 Master’s in Information Systems (4.0 GPA) from the University of North Texas  
 🏫 Bachelor’s in Technology from IIT Ropar  
-🏢 Senior Software Developer @ Tata Consultancy Services (2020–2022)  
+🏢 3+ years as a Software Developer
 🌟 AWS Certified Developer Associate  
 
 ### 💻 Technical Skills  
